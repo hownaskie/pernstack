@@ -1,5 +1,4 @@
 # Pernstack
-## A sample microservice
 
 ### How to run this microservice?
 - Please make sure you have installed node js in your system, once installed, kindly check the version of node js by using this command in terminal `node -v` so that we may able to see if the node was successfully installed
